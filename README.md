@@ -5,11 +5,7 @@ mainブランチとfeatureブランチに対して、テキストとバイナリ
 
 # 修正場所
 
-<<<<<<< HEAD
-「main」ブランチで修正しました
-=======
 「feature/another_update」ブランチで修正しました
->>>>>>> origin/feature/another_update
 
 ![画像](image.png)
 
